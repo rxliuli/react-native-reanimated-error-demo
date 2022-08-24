@@ -1,0 +1,4 @@
+[submodule "submodules/matrix-mobile"]
+	path = submodules/matrix-mobile
+	url = git@codeup.aliyun.com:pineai/pineai-client/matrix-mobile.git
+	ignore = all
